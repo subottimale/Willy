@@ -1,2 +1,5 @@
 # Willy
-Case and custom plate designs for Willy pcb by SquashKB and AlphaWilly pcb by KiserDesigns
+Case designed for use with Willy pcb by SquashKB and AlphaWilly pcb by KiserDesigns
+<br/>
+<br/>
+Billy plate is for AlphaWilly ONLY
