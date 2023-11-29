@@ -1,4 +1,4 @@
-# Willy
+# Offshore & Fluke
 Cases designed for use with Willy pcb by SquashKB and AlphaWilly pcb by KiserDesigns
 <br/>
 <br/>
