@@ -6,8 +6,7 @@ Using a permissive license. But I'd love to see your builds and see any mods you
 Cases are compatible with standard Willy plates. Billy plate is for AlphaWilly ONLY
 <br/>
 <br/>
-Hardware is M2. 5-6mm bolts; heatset inserts (Offshore = 8, Flue = 14
-Fluke count includes 2x18mm bolts
+Hardware is M2. 5-6mm bolts; heatset inserts (Offshore = 8, Fluke = 14); Fluke count includes 2x18mm bolts for the front edge
 <br/>
 <br/>
 ![Offshore_desk](https://github.com/subottimale/Willy/assets/69826495/eaecab02-2596-4980-b7a0-eebc65fe9264)
